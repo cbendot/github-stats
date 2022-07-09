@@ -1,3 +1,5 @@
+[![Generate Stats Images](https://github.com/cbendot/github-stats/actions/workflows/main.yml/badge.svg?branch=master)](https://github.com/cbendot/github-stats/actions/workflows/main.yml)
+
 # [GitHub Stats Visualization](https://github.com/cbendot/github-stats)
 
 <!--
