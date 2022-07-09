@@ -16,7 +16,7 @@ jobs:
 
     steps:
     # Check out repository under $GITHUB_WORKSPACE, so the job can access it
-    - uses: actions/checkout@v2
+    - uses: actions/checkout@v3
 
     # Run using Python 3.8 for consistency and aiohttp
     - name: Set up Python 3.8
@@ -59,5 +59,5 @@ jobs:
         git config --global user.email "r.budhiono@gmail.com"
         git add .
         # Force the build to succeed, even if no files were changed
-        git commit -m 'Update generated files' || true
+        git commit -sm 'Update generated files' || true
         git push
