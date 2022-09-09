@@ -1,4 +1,4 @@
-[![Generate Stats Images](https://github.com/cbendot/github-stats/actions/workflows/main.yml/badge.svg?branch=master)](https://github.com/cbendot/github-stats/actions/workflows/main.yml)
+[![Generate Stats Images](https://github.com/cbendot/github-stats/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/cbendot/github-stats/actions/workflows/main.yml)
 
 # [GitHub Stats Visualization](https://github.com/cbendot/github-stats)
 
@@ -6,10 +6,10 @@
 https://github.community/t/support-theme-context-for-images-in-light-vs-dark-mode/147981/84
 -->
 <a href="https://github.com/cbendot/github-stats">
-<img src="https://github.com/cbendot/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
-<img src="https://github.com/cbendot/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
-<img src="https://github.com/cbendot/github-stats/blob/master/generated/overview.svg#gh-light-mode-only" />
-<img src="https://github.com/cbendot/github-stats/blob/master/generated/languages.svg#gh-light-mode-only" />
+<img src="https://github.com/cbendot/github-stats/blob/main/generated/overview.svg#gh-dark-mode-only" />
+<img src="https://github.com/cbendot/github-stats/blob/main/generated/languages.svg#gh-dark-mode-only" />
+<img src="https://github.com/cbendot/github-stats/blob/main/generated/overview.svg#gh-light-mode-only" />
+<img src="https://github.com/cbendot/github-stats/blob/main/generated/languages.svg#gh-light-mode-only" />
 </a>
 
 Generate visualizations of GitHub user and repository statistics with GitHub
