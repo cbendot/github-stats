@@ -1,3 +1,4 @@
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/8ba9e761dfde4a489dbd03edb5f836f6)](https://app.codacy.com/gh/cbendot/github-stats?utm_source=github.com&utm_medium=referral&utm_content=cbendot/github-stats&utm_campaign=Badge_Grade_Settings)
 [![Generate Stats Images](https://github.com/cbendot/github-stats/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/cbendot/github-stats/actions/workflows/main.yml)
 
 # [GitHub Stats Visualization](https://github.com/cbendot/github-stats)
