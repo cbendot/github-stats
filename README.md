@@ -1,4 +1,4 @@
-[![Generate Stats Images](https://github.com/cbendot/github-stats/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/cbendot/github-stats/actions/workflows/main.yml)
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/b2d26c172164470fa51b38e0c77a07d9)](https://www.codacy.com/gh/cbendot/github-stats/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=cbendot/github-stats&amp;utm_campaign=Badge_Grade) [![Generate Stats Images](https://github.com/cbendot/github-stats/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/cbendot/github-stats/actions/workflows/main.yml)
 
 # [GitHub Stats Visualization](https://github.com/cbendot/github-stats)
 
